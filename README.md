@@ -4,7 +4,12 @@
 
 ## Description
 
-This Weather App is a simple, user-friendly web application that provides real-time weather information for cities around the world. Built with HTML, CSS, and JavaScript, it offers a clean interface for users to quickly check current weather conditions.
+> This Weather App is a simple, user-friendly web application that provides real-time weather information for cities around the world. Built with HTML, CSS, and JavaScript, it offers a clean interface for users to quickly check current weather conditions.
+
+## Live Demo
+
+This project is hosted on Netlify. You can view the live demo here:
+[Weather App Live Demo](https://bushra-weatherapp.netlify.app/)
 
 ## Features
 
