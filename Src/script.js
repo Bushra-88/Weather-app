@@ -84,7 +84,7 @@ function displayTemperature(response) {
 //   let searchInputElement = document.querySelector("#search-input");
 //   let city = searchInputElement.value;
 
-//   let apiKey =  "6b8a7398o06094tf908737c5b44dce83";
+//   let apiKey = "6b8a7398o06094tf908737c5b44dce83";
 //   let apiUrl = `https://api.shecodes.io/weather/v1/current?query=${city}&key=${apiKey}&units=metric`;
 
 //   axios.get(apiUrl).then(displayTemperature);
@@ -110,7 +110,7 @@ function displayTemperature(response) {
 //     "Wednesday",
 //     "Thursday",
 //     "Friday",
-//     "Saturday"
+//     "Saturday",
 //   ];
 
 //   let formattedDay = days[day];
